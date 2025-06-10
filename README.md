@@ -17,8 +17,12 @@ sudo modprobe ni_65xx
 
 sudo comedi_config /dev/comedi0 ni_65xx
 
+About the circuit, I want to say that the wires should be longer and better routed, with respect to the FPGA and the sensor.
+
+Maybe an amplifier of the output signals can be added, and also an operationnal amplifier for the following voltages of the controls of the sensor can be done.
+
 PS :  Sorry but in this design there is one wire which has not been routed at this time.
 
-You should route it in order to make the camera to work fine.
+You should route the PG_N signal wire in order to make the camera to work fine.
 
 BR, EO.
