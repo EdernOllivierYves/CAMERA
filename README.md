@@ -18,6 +18,7 @@ sudo modprobe ni_65xx
 sudo comedi_config /dev/comedi0 ni_65xx
 
 PS :  Sorry but in this design there is one wire which has not been routed at this time.
+
 You should route it in order to make the camera to work fine.
 
 BR, EO.
