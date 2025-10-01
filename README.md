@@ -21,8 +21,10 @@ About the circuit, I want to say that the wires should be longer and better rout
 
 Maybe an amplifier of the output signals can be added, and also an operationnal amplifier for the following voltages of the controls of the sensor can be done.
 
-PS :  Sorry but in this design there is one wire which has not been routed at this time.
+PS :  Sorry but in this design there is one wire which seem that has not been routed at this time.
 
 You should route the PG_N signal wire in order to make the camera to work fine.
+
+On the PCB it seems to be wired, and also I have verified its connectivity with a voltmeter.
 
 BR, EO.
