@@ -25,6 +25,6 @@ PS :  Sorry but in this design there is one wire which seem that has not been ro
 
 You should route the PG_N signal wire in order to make the camera to work fine.
 
-On the PCB it seems to be wired, and also I have verified its connectivity with a voltmeter.
+On the PCB it seems to be wired, and also I have checked the connectivity of the wire PG_N from the Arduino connector to the image sensor with a voltmeter.
 
 BR, EO.
