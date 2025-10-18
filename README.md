@@ -33,6 +33,6 @@ You should route the PG_N signal wire under KiCad 9.0.4 in order to make the cam
 
 NB :  On the PCB it seems to be wired, and also I have checked the connectivity of the wire PG_N from the Arduino connector to the image sensor with a voltmeter.
 
-Moreover I have applied the supply on the FPGA board, with the Cyclone 10 Altera FPGA, and have seen the PG_N signal in yelow on my scope VOLTCRAFT DSO-2154.
+Moreover I have applied the supply on the FPGA board, with the Cyclone 10 LP Altera FPGA, and have seen the PG_N signal in yelow on my scope VOLTCRAFT DSO-2154.
 
 BR, EO.
