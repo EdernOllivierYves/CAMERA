@@ -27,10 +27,12 @@ Then you can see the signals with the scope on the Arduino connector and plug th
 
 At last the image sensor will heat a lot and you will plug the NI board on the daugther board to see the images.
 
-PS :  Sorry but in this design there is one wire which seem that has not been routed at this time.
+PS :  Sorry but in this PCB design there is one wire which seem that has not been routed at this time, it seems to be the PG_N.
 
 You should route the PG_N signal wire under KiCad 9.0.4 in order to make the camera to work fine.
 
 NB :  On the PCB it seems to be wired, and also I have checked the connectivity of the wire PG_N from the Arduino connector to the image sensor with a voltmeter.
+
+Moreover I have applied the supply on the FPGA board, with the Cyclone 10 Altera FPGA, and have seen the PG_N signal in yelow on my scope VOLTCRAFT DSO-2154.
 
 BR, EO.
