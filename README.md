@@ -1,5 +1,5 @@
 # CAMERA
-It is a project for making a camera with a PCB on KiCAD 9.0.4 and a box of metal designed on QCAD 3.32.
+It is a perfect project for making a camera with a PCB on KiCAD 9.0.4 and a box of metal designed on QCAD 3.32.
 
 Thank to you for using it with the driver on Windows X11 or Linux Ubuntu 24.04 LTS to see the images with the NI data acquisition board PCIe6509.
 
